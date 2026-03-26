@@ -1,0 +1,181 @@
+record_id,sex,participating_year,dob,age,ethnicity,race,id
+1,Female,2018,1963-10-17,55,Not Hispanic/Latino,White,HLOH7DSsvkVEd3JYgQVaiuc4oO12
+2,Female,2019,1963-06-15,56,Hispanic/Latino,White,W4XvnRfOT5cvq7a8yxixshoBMVV2
+3,Female,2019,1949-02-20,70,Not Hispanic/Latino,White,JLK7yz0KO3MGrw4abS5bVOJBn212
+5,Male,2019,1961-03-26,58,Not Hispanic/Latino,White,Ep8qC4NnC8Xw0ieZxbklHIzrqzq1
+6,Male,2018,1942-08-13,76,Not Hispanic/Latino,White,vr0epBbRqEeCKsNeYIXbhf9jFkR2
+7,Male,2019,1945-06-05,74,Not Hispanic/Latino,White,fIZkTaUJCvOkE5uC4hZ06JCmebt1
+10,Female,2020,1945-03-19,75,Not Hispanic/Latino,White,vumnu1u66EVS0M9aKrBPpEt2Oel2
+11,Female,2019,1971-06-19,48,Not Hispanic/Latino,White,zibEntkmXAf3krIdZiOYTwrJbQZ2
+14,Female,2019,1947-05-07,72,Not Hispanic/Latino,White,niVxBGFCxqhocBeGxFdI5fdOMst2
+15,Male,2018,1946-12-01,72,Not Hispanic/Latino,White,AExwBQrKTphoKNVtl7JggfirRb03
+18,Female,2018,1955-12-23,63,Not Hispanic/Latino,White,kXhCnVNXTUdi7PdLRzMfTscdSYq2
+19,Male,2018,1947-09-23,71,Not Hispanic/Latino,White,vbGyOtzZGObqCM8oYp5Bp0lNqTv1
+20,Female,2019,1954-03-19,65,Not Hispanic/Latino,White,O8wR0a1BLodxvofOcA4JjlpBJWc2
+22,Female,2019,1949-04-21,70,Not Hispanic/Latino,White,uGq7bKCicnRE2kW0eRQxTzXhekg2
+25,Male,2019,1962-03-20,57,Hispanic/Latino,White,7EuTCvwSxxgJRbUDFTBvbpetIaE2
+28,Male,2018,1949-11-10,69,Not Hispanic/Latino,White,NnueMgUo3IM8cGA6dZVx46yBSY72
+29,Female,2018,1961-12-21,57,Not Hispanic/Latino,White,8TP7vrd3MqUvY5WUyv7vAEzB00x1
+32,Female,2018,1941-09-26,77,Not Hispanic/Latino,White,bBvpiavuImdMonY7A5n93vItQYq2
+34,Male,2019,1950-04-13,69,Not Hispanic/Latino,White,j5Jz4Gsn3DUIXSmrTHzy1r6cDyw1
+34,Male,2019,1950-04-13,69,Not Hispanic/Latino,White,noJcBOCD5vQFZkdus83AFVYNfg03
+35,Female,2018,1946-10-15,72,Not Hispanic/Latino,White,RQIhfiGo8kWk5uhbKEcxdrZYAB42
+41,Male,2018,1952-12-16,66,Not Hispanic/Latino,White,mJ7C8HfhqrQ3EhYsWas5X7qy2sx2
+42,Male,2021,1952-01-04,69,Not Hispanic/Latino,White,bJlTYK9opJYtrxynOi12zu6GNdL2
+43,Male,2018,1946-12-06,72,Not Hispanic/Latino,White,GQfQvjpRGgQg6csiUEREP7W42Cp1
+45,Male,2019,1949-06-29,70,Not Hispanic/Latino,White,x3RtPfTqDqM2QF2DPeyaZX6PYbp2
+48,Male,2019,1949-01-07,70,Not Hispanic/Latino,White,OhaOqfVjxhPSZHwd0mUyJBoMbm13
+51,Male,2019,1982-09-01,37,Not Hispanic/Latino,White,EwyLkBf5G4cmSRV7zDfJC7soN2A3
+52,Female,2019,1976-05-13,43,Not Hispanic/Latino,White,xg3VZmvMCPQy5zpwgYiDrxI1Aa13
+54,Male,2019,1955-04-19,64,Not Hispanic/Latino,White,oKjzLBTIF1XrfW7Io9clRIdp5Jj2
+55,Female,2019,1982-08-12,37,Not Hispanic/Latino,White,DSNixx6dJuSdMHD7jteGqyPYhyT2
+57,Female,2019,1969-07-24,50,Not Hispanic/Latino,White,XVBa44QtqbeYMBhalMoNv11GN9Z2
+58,Male,2019,1992-01-29,27,Not Hispanic/Latino,White,EHHsoILJw2Vndj97E6nWd1biupr2
+59,Male,2019,1972-08-19,47,Not Hispanic/Latino,White,orBbtW0HJBUx6ElDNe5F6pYOjsy2
+60,Female,2019,1959-07-27,60,Not Hispanic/Latino,White,7qqDEsUFF6eiU5d4IQU2nbZk1Gy1
+64,Male,2019,1962-09-03,57,Not Hispanic/Latino,Asian,0etnk2RTVUf7PwaB0y05pV5TW3k1
+65,Male,2018,1957-10-14,61,Not Hispanic/Latino,White,8hoqrDhvIiOr6P1UgPgspTTfKW12
+67,Male,2019,1946-02-06,73,Not Hispanic/Latino,White,GMnMIzqdyxeb44b7Dv4HqF9qtqR2
+68,Female,2019,1955-08-14,64,Not Hispanic/Latino,White,xMfEMiEOvTQxbDV0zvs3wgs2tVZ2
+70,Male,2019,1951-05-29,68,Not Hispanic/Latino,White,S2jqk5ZBlsbWoKai5Wct4d6MrJH2
+75,Female,2019,1962-04-06,57,Not Hispanic/Latino,White,NTktkRxQDPRnOPIuSlsL9PwUXq13
+78,Female,2019,1967-08-19,52,Not Hispanic/Latino,White,cP7lcIx0xGPmSxVUrWEv2THI12P2
+79,Male,2019,1959-07-09,60,Not Hispanic/Latino,White,Gg3f7r2YRkUxjJzmjeg8nDmFq1t2
+82,Female,2018,1953-11-09,65,,White,GKvLG8Yk4rQHXYlZ49gUzxAqgyh2
+86,Male,2019,1946-08-28,73,Not Hispanic/Latino,White,TfJbSrYdxsSxqeFqyfjF9GBoUjB2
+87,Female,2018,1966-12-06,52,Not Hispanic/Latino,White,hwIm6lHViMRYIXmCVio0uvlhAco2
+91,Male,2019,1955-07-06,64,Hispanic/Latino,White,vB5lcskoFGbqqS0P2hpEGyky3sv2
+94,Male,2019,1963-05-08,56,Not Hispanic/Latino,White,1awIdoVltYNzQber2OTCCVUkDLC3
+95,Female,2019,1957-07-20,62,Not Hispanic/Latino,White,I7wTvSw1APMDKnxOVo6B6klGDBv1
+97,Female,2019,1951-02-27,68,Not Hispanic/Latino,White,ajVYyOMTowT0ykM8GQVCnvppvpW2
+99,Female,2019,1952-03-04,67,Not Hispanic/Latino,White,QWe65Tu6UpSw8UK4xxLLPKVOdxK2
+100,Female,2018,1964-09-22,54,Not Hispanic/Latino,White,g0dK8AHHgueSI0sleOIzxsCzwKo1
+102,Male,2019,1968-08-01,51,Not Hispanic/Latino,White,M1oT5WKs4HhabLCWqqQwzwfviFx2
+103,Female,2019,1954-02-26,65,Not Hispanic/Latino,White,kLh9of9SkoQ7NPqqOlZ9AtGmGlu2
+104,Male,2018,1954-11-29,64,Not Hispanic/Latino,Unavailable,XPd9IT8syygpd9OwjGRgSdO8Vr02
+105,Female,2019,1969-05-20,50,Not Hispanic/Latino,White,d0qRX7Kzu6QpEvHt0yjOZZaSXNQ2
+106,Male,2019,1985-03-11,34,Not Hispanic/Latino,White,9ek5S1gJ5qQgsDssJ46iE7MhaSX2
+107,Male,2019,1959-03-10,60,Not Hispanic/Latino,White,tZ7dhCzeqjYTjuslRIqIgyKpMGc2
+111,Female,2019,1959-03-14,60,Not Hispanic/Latino,White,W1fTancnNYUik6AUmCU1k7B9ySX2
+114,Male,2020,1944-01-29,76,Not Hispanic/Latino,White,xxMf0Fbt16SRPnR0DUDatYoLOfV2
+115,Male,2019,1982-05-22,37,Not Hispanic/Latino,White,HTfRBauYaLcRRuxYN0v18i41EUq1
+119,Male,2019,1952-10-18,67,Not Hispanic/Latino,White,ESnILu20v8Z2LKX95cqbG4sTlN32
+120,Male,2019,1964-07-21,55,Not Hispanic/Latino,White,qvqMSJqTxVaaJHJZdJm3zQFZFef2
+121,Female,2019,1963-08-13,56,Not Hispanic/Latino,White,pMW3GDmE1nhlCjpT2d3V1iciYpq1
+123,Female,2018,1949-10-19,69,Not Hispanic/Latino,White,WMFApcnOZBax7kKEWkBqUKDpDPb2
+124,Female,2019,1985-04-05,34,Not Hispanic/Latino,White,n8DJXQJHRjSzoFSUHi7avLTXlMl1
+125,Female,2019,1958-07-10,61,Not Hispanic/Latino,White,PWLp8FsD9SNdttMHWdYV1SW92sB2
+126,Male,2019,1956-05-21,63,Not Hispanic/Latino,White,8zCG28Re27WhEN74lnlX0AELZWE2
+129,Female,2019,1950-09-18,69,Not Hispanic/Latino,White,qjn4IXSuZlZNrLk8D1SuJKvrn4k1
+130,Female,2018,1958-11-21,60,Not Hispanic/Latino,White,7ZU5CKzpmQfRbwpQxjwFrJj3oVP2
+131,Male,2020,1996-02-01,24,Not Hispanic/Latino,White,8kE4IDkUsLY37TkyAfgGRXKVYs22
+135,Female,2019,1941-06-07,78,Not Hispanic/Latino,White,XsvtVJS7aegkDlUgasX6g2Mh1iQ2
+137,Female,2019,1948-10-20,71,Not Hispanic/Latino,White,4hJzjYkKz8QZ4Ks6jlhsuxtFr5F2
+138,Male,2019,1993-02-18,26,Not Hispanic/Latino,White,sKJIuuYoxZUPn4aLrKKsV3lME8p2
+140,Male,2019,1983-06-07,36,Not Hispanic/Latino,White,S1MgzhhRq8Nf9hoPjo3gOfOxPpC2
+141,Male,2018,1943-12-23,75,Not Hispanic/Latino,White,hiXBpM8uYCfZPCX090iqHi1PIob2
+148,Female,2018,1979-11-02,39,Not Hispanic/Latino,White,FpWbXiZG2og1MYnuQR53f3le2db2
+152,Female,2019,1953-08-18,66,Not Hispanic/Latino,White,oWyZfDJYABe7DTkq2DHIap7luAa2
+153,Female,2019,1956-04-22,63,,White,9QyLPApLvgPHnsosEVwzEcr5pWs2
+154,Male,2019,1953-05-28,66,Not Hispanic/Latino,White,lh5j3AhEbkRY15ByGNrO7JEtyRA3
+157,Female,2019,1966-03-08,53,Not Hispanic/Latino,White,IeVehIPWO4cPiiQ5mr8hM6bx4Yr1
+158,Female,2019,1953-09-23,66,Not Hispanic/Latino,White,XZZdv9kgMSUasP9vVrzEXWIbA3G3
+160,Male,2018,1952-11-23,66,Not Hispanic/Latino,White,I5qTyIrcP7YCyktczB7mlJh7i2e2
+161,Female,2019,1953-06-07,66,Not Hispanic/Latino,White,HWs6HeJUGaVH1P29rRzL1GV0QmB2
+162,Female,2019,1987-07-18,32,Not Hispanic/Latino,White,0Y4nmh735kMWaP6srYZpR2SN8ns1
+164,Male,2019,1988-02-02,31,Not Hispanic/Latino,White,wkae9y62STaLv3Qrd5b7Bw7JC972
+167,Female,2019,1968-07-18,51,Not Hispanic/Latino,White,fQBHOCCwa0On4AZdXxOtBcSlYtB2
+173,Male,2019,1946-01-23,73,Not Hispanic/Latino,White,pTVDr16JdWbkfgTVz6AHWLjUA3r2
+174,Female,2019,1954-05-06,65,Hispanic/Latino,White,fNyQJ1R4ZhaoTgBuQVgsY4d7cWn1
+175,Female,2019,1970-08-25,49,Not Hispanic/Latino,White,ILxMqv2XqlQGLGGBksmpxpev1r23
+176,Male,2018,1950-11-10,68,Not Hispanic/Latino,White,Su3qynNsBLdrE8VNI3ReERq7QT13
+177,Male,2018,1991-11-20,27,Hispanic/Latino,White,U3PnooCmSRTcGSDqUuHJZ3JKrvv1
+178,Female,2019,1990-09-21,29,Not Hispanic/Latino,White,P3tQeFGfirXyFUUUBGRev0Iyc822
+179,Female,2019,1951-03-28,68,Not Hispanic/Latino,White,IICzl1fZQcWvKvC9gv0j8qsBa2I3
+180,Female,2020,1982-12-17,38,Not Hispanic/Latino,White,b2n6WaQ74cU7Kz1H77OrBP9IYIZ2
+181,Female,2019,1957-06-21,62,Not Hispanic/Latino,White,ts0ycS0HiJhIukN22JxFxuJA2ig2
+185,Female,2018,1959-12-10,59,Not Hispanic/Latino,White,nhaJ7O6mkNU8fRtdrSFIiK2RKnV2
+186,Male,2019,1992-07-13,27,Not Hispanic/Latino,White,x0RTtUFuBnfnwy6ZkgtTBU0Y0j12
+192,Male,2019,1976-06-24,43,Not Hispanic/Latino,White,VaS1EbZK91OCP8l3glGXZW5wzcx1
+194,Male,2019,1982-02-23,37,Not Hispanic/Latino,White,tH0iC3xZD0NbCfLvMMBxZsN0ZWg2
+195,Male,2019,1966-06-01,53,Not Hispanic/Latino,White,LfMbznSTeleOm4128EfJ7SFA8Ja2
+197,Male,2019,1970-07-16,49,Not Hispanic/Latino,White,3yOMz5KNZIZeb7ibVIf3R3peahx2
+198,Male,2019,1966-07-31,53,Not Hispanic/Latino,White,lch8uRAkhwUMgCPdrMyfOezDoep1
+199,Male,2019,1977-09-02,42,Not Hispanic/Latino,White,GkiTdJwC81Z27hRxlgViATdZPrl2
+200,Female,2019,1990-04-29,29,Not Hispanic/Latino,White,ihPGkVbviPdKgnZcTHaLFwjNRNH2
+204,Female,2019,1990-04-11,29,Not Hispanic/Latino,White,oxhrKzT9JoMCZV1k1znBJ5fMm682
+207,Female,2019,1988-07-30,31,Not Hispanic/Latino,White,390zixmEtRh9x7nGHLSy5ysGeEp2
+208,Female,2019,1971-12-29,48,Not Hispanic/Latino,White,pyU1rJ1tz4Yr6FXK1UxWO5bHaBL2
+213,Female,2019,1979-07-25,40,Not Hispanic/Latino,White,1HGJiN36y6M3TO3e1IJ93SeGCG72
+214,Male,2019,1967-07-24,52,Not Hispanic/Latino,White,gC6hSuOfRNg630eoEpXQXhz4nwu1
+215,Male,2019,1958-11-17,61,Not Hispanic/Latino,White,K7fl6ta8Klhe2VtriA5zyXyJQdi2
+217,Male,2019,1988-09-06,31,Not Hispanic/Latino,White,cQVIz1xM3PP2SXaPCn5E7murETs2
+219,Male,2020,1968-01-07,52,Not Hispanic/Latino,White,66ohCB5nknX03lfqANuWYh6oyc32
+220,Male,2019,1985-11-07,34,Not Hispanic/Latino,White,uvBXlGsszRQiBrEA4Fb8ZrPTCZL2
+223,Female,2019,1950-09-24,69,Not Hispanic/Latino,White,rNctZo4wXwXj60WfZRYy0wsTn8n2
+226,Male,2019,1948-09-29,71,Not Hispanic/Latino,White,Ba9RM95blQXLKaCbuIgBulOd3XB3
+229,Female,2019,1946-08-01,73,Not Hispanic/Latino,White,3sU9pYwMbwYGHH0rt2wf4w3SQaX2
+235,Male,2020,1967-01-18,53,Not Hispanic/Latino,White,iNKq4kwHlmb1UE0uuAIwFITinFJ2
+236,Female,2019,1970-11-24,49,Not Hispanic/Latino,White,eIXDAIv8jPPRHdrU55ftOLzLqPa2
+239,Male,2020,1962-01-01,58,,White,tXsuDqojtgQEmxaqWFhFU4FTzrO2
+240,Female,2019,1964-05-02,55,Not Hispanic/Latino,White,aFr2FqCTZVZFTTm705WUBQSxJmh1
+242,Female,2019,1950-06-15,69,Not Hispanic/Latino,White,ypBioiUpizU2kKJyJi8nlzZFZDp1
+244,Female,2019,1949-11-20,70,,Unavailable,cvA2ZQ8wUuUEBDmPvtl7Aqubi3l1
+246,Male,2019,1941-04-17,78,Not Hispanic/Latino,White,13dnQ0NpHnOdwr1PO6278fwLLYG3
+249,Male,2019,1954-03-01,65,Not Hispanic/Latino,White,pZ3hmmI0koSZ2zy97nY4WxRarwJ2
+250,Male,2019,1953-09-26,66,Hispanic/Latino,White,CNuvAL0fiHPZAxFP1v1LZfN8DSs1
+252,Male,2019,1954-06-13,65,Not Hispanic/Latino,White,GlGfVZbNw5QteOdrP32gljirC5r1
+253,Male,2019,1943-05-15,76,Not Hispanic/Latino,White,MUdqlv5povYmV1DumP4N6YSpKf12
+256,Female,2019,1960-04-04,59,Not Hispanic/Latino,White,hO63DlJRImhR3bamkMofDbBFSXx1
+258,Female,2019,1980-07-24,39,Not Hispanic/Latino,White,fLn9w1msuPP3gv0hVV5JgjU8snJ3
+265,Female,2019,1968-12-02,51,Not Hispanic/Latino,White,HBzh3IL13ZaF3ukcSQmJPK9QLvY2
+267,Male,2019,1989-12-09,30,Not Hispanic/Latino,White,48is5xKrXue1nHDD7ZoFaXqwUiX2
+268,Male,2019,1983-06-26,36,Not Hispanic/Latino,White,LCvEfeygqQTD6K3ruxcIi2ZuHHO2
+270,Female,2020,1953-03-19,67,Not Hispanic/Latino,White,zsqa9u7JeIfv9gP4MN6I7ZuKthO2
+271,Male,2019,1944-05-10,75,Not Hispanic/Latino,White,LksyXR4L0fWkL8LnvMgRPA1YErr2
+273,Female,2019,1987-07-26,32,Not Hispanic/Latino,White,hIswpZuFBgdJTDsDQS7CCGmRMol1
+277,Male,2020,1988-02-03,32,Not Hispanic/Latino,White,0upYXjVK8aZvcjP3MjB5sDqXVz73
+280,Male,2019,1970-06-29,49,Not Hispanic/Latino,White,v8tQsx6a5GVyaJNk9iR8Ljragvn2
+281,Male,2019,1997-11-01,22,Hispanic/Latino,White,q6V93GajKUbF0qlaMZZ634PyTiC2
+284,Female,2019,1960-07-04,59,Not Hispanic/Latino,White,tsr42YKkVBSRAKLIQsxQoWevrql2
+285,Female,2019,1968-04-28,51,Not Hispanic/Latino,White,ED1NVIyLfNgEwgSMJgkgbywlsZI3
+286,Male,2019,1954-11-11,65,Not Hispanic/Latino,White,6M0zNJEx7kZfoXhj9QhJeuo1hrC2
+288,Male,2020,1943-07-07,77,Not Hispanic/Latino,White,4ta8vV2vdzXcOv0ezsSCNuZOdbJ2
+293,Male,2020,1971-02-25,49,Not Hispanic/Latino,White,FqfmfYTUGYdCvm53HdRDau21jgp2
+296,Male,2019,1976-11-05,43,Not Hispanic/Latino,White,0jZnljtTHgh8GHCJ7GCKa0MNF932
+297,Female,2019,1981-08-03,38,Not Hispanic/Latino,White,gpv0AVbyoGPqhz49bxcQtAanbCZ2
+298,Female,2019,1982-08-25,37,Not Hispanic/Latino,White,wH14GGr1lKaynd0HGbwEKHIZBqY2
+300,Female,2019,1960-09-05,59,Not Hispanic/Latino,White,TgL0KXp0ZwYrNxOPzDZ8JKRxTY63
+301,Female,2019,1964-11-13,55,Hispanic/Latino,Unavailable,kmN7AxZmnxcF74uEnGGAwIlEOJu2
+305,Female,2020,1967-04-18,53,Hispanic/Latino,White,Js4lCU444rbib6kBNbyL4wFlx8J2
+306,Female,2019,1958-05-07,61,Not Hispanic/Latino,White,IFxOMzVcjwfFQhNC5yFsdGeXlAz1
+308,Male,2020,1985-03-08,35,Hispanic/Latino,Unavailable,mxMCFfKO3XbP3AoQTG8TaboDkc43
+309,Female,2019,1953-10-13,66,Not Hispanic/Latino,White,aV4tK3lYx7WyAo3XhPnfzTYqZhG2
+312,Female,2019,1966-09-04,53,Not Hispanic/Latino,White,lQtnkYswlxcrNCCy613baUs1t8j2
+314,Male,2019,1978-11-13,41,Not Hispanic/Latino,White,VsA1XRkPEFUQM6vuQCnnq9Hqtal2
+315,Female,2019,1962-07-26,57,Not Hispanic/Latino,White,tALsJnOhrRdxlCRtEsoKyCMHopg2
+320,Female,2020,1995-04-01,25,Hispanic/Latino,White,UyTYPTilYMQB7pTCpNbsO5AUG6q2
+321,Male,2019,1952-05-06,67,Not Hispanic/Latino,White,hXElLaZP89SlpatK6ddDioaRl3D2
+322,Female,2020,1990-07-17,30,Hispanic/Latino,Unavailable,1ieWwOkcMbYgN3SywbGz7mWSaw22
+328,Female,2019,1968-10-16,51,Not Hispanic/Latino,White,2lxLnaJLhvWVpC66eTACZ3xS3k12
+330,Female,2020,1981-01-16,39,,Unavailable,D5QYDbWdRUbeJhDAJURvW9u1tpw1
+332,Female,2019,1948-06-10,71,,Unavailable,K7EYUYeZOQeFpI7rkgDAiubVWUC3
+334,Male,2019,1944-10-04,75,Not Hispanic/Latino,White,OQ2lW07buHUTtXA86xJstBPQJ5u2
+335,Female,2019,1978-08-16,41,Not Hispanic/Latino,White,FsqzDcwkWYUZTA191RV9TlRwUwr1
+336,Female,2019,1987-09-19,32,Not Hispanic/Latino,White,QKuEkLI8OfZdkb6sWbLf0kMNLP33
+337,Female,2020,1952-04-03,68,Not Hispanic/Latino,White,BgVJzogcbETsUSeAM4lRD4upbo83
+338,Female,2019,1974-09-14,45,Not Hispanic/Latino,White,T3nwN71KE1cY9Sb7C8EKYPBg5gn2
+339,Female,2019,1958-09-11,61,Not Hispanic/Latino,White,UWVRZ5jOPXTXdOaFsF5FJdzzgwL2
+341,Female,2019,1990-05-23,29,Not Hispanic/Latino,White,14GYE2DIFeRiie4h48KtjxOaijm1
+348,Female,2020,1984-05-09,36,Not Hispanic/Latino,White,oxQnpE2jM2PG2MNDQZMmzARYRlj1
+352,Female,2020,1986-04-09,34,Not Hispanic/Latino,White,rJG6ZYa8OASB3bxczHFNiQulmyi1
+359,Female,2020,1950-05-08,70,Hispanic/Latino,White,Ys1ZRRPVwBejj94O3MtTrWe42Cr2
+360,Female,2019,1958-07-13,61,Not Hispanic/Latino,White,lgtgKIs5cdhUzKZe5JGXsq5xYuh1
+362,Male,2019,1941-08-12,78,Not Hispanic/Latino,White,MOyJjyLX9hPvP3FSlLNYaG28xA23
+369,Female,2019,1957-11-11,62,Not Hispanic/Latino,White,zn6iI7uiq0U0xWTG5fuwR7yX9IH3
+370,Female,2019,1957-08-01,62,Not Hispanic/Latino,White,XFJkSNMEpNgUnWg5Ouc6AWMOnQ82
+375,Male,2020,1956-03-25,64,Not Hispanic/Latino,White,n972P98vfGanxKejkMlMpuEZ9zB2
+376,Male,2020,1950-05-26,70,Not Hispanic/Latino,White,j4GZI8ZFugZHRPxCKLBHC3DFwZE2
+379,Female,2019,1949-09-28,70,Not Hispanic/Latino,White,wJtXHdW7wiOB6JmGs94paVeNZLs2
+380,Female,2019,1960-09-10,59,Not Hispanic/Latino,White,FmiFho3kKaZ1s5DCSCIRD7GVixh2
+381,Male,2020,1948-06-06,72,Not Hispanic/Latino,White,7iutXtqabkXCDqDPvmniYaYTFLD3
